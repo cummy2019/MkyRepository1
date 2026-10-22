@@ -1,1 +1,2 @@
-Details about my reposiroty are here
+Details about my repository goes here....
+Added on 10/22/2026
